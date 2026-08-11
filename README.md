@@ -160,11 +160,11 @@ To analyze the total amount received from borrowers across different loan terms 
 **Objective:**  
 To analyze the total loan amount funded across different employee length categories and understand how funding is distributed based on borrowers' employment experience.
 
-## 7.) Total Funded Amount by Loan Purpose
-![image alt](https://github.com/harsha0p6300/Finance_Domain/blob/main/Project%20pictures/funded%20loan_purpose.png?raw=true)
+## 7.) Total Received Amount by Employee Length
+![image alt](https://github.com/harsha0p6300/Finance_Domain/blob/main/Project%20pictures/recieved%20amoun_emp.png?raw=true)
 
 **Objective:**  
-To analyze the total loan amount funded across different loan purposes and understand how funding is distributed among various borrowing needs.
+To analyze the total amount received from borrowers across different employee length categories and understand how repayment amounts are distributed based on employment experience.
 
 ## 8.) Total Funded Amount Received by Loan Purpose
 ![image alt](https://github.com/harsha0p6300/Finance_Domain/blob/main/Project%20pictures/recived%20amout_loan.png?raw=true)
