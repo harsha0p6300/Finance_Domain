@@ -126,7 +126,12 @@ To analyze the monthly trend in the total amount funded to borrowers
 
 ## 2.) Total Received Amount by Month
 
-![image alt](https://github.com/harsha0p6300/Finance_Domain/blob/main/Project%20pictures/Total%20Funded%20bymonth.png?raw=true)
+![image alt](https://github.com/harsha0p6300/Finance_Domain/blob/main/Project%20pictures/Total%20Recived%20bymonth.png?raw=true)
+
+**Objective:**  
+To analyze the monthly trend of the total amount received from borrowers, 
+identify fluctuations in repayment activity, and understand the overall 
+collection pattern over time.
 
 
 
