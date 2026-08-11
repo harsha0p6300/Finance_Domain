@@ -110,3 +110,28 @@ Loan Segmentation
 Data Visualization
      ↓
 Business Insights
+```
+---
+# Visualizations
+This section presents the key analyses and visualizations created during the project. 
+Each chart is designed to highlight important trends, patterns, and insights from the datase
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
