@@ -171,3 +171,7 @@ To analyze the total amount received from borrowers across different employee le
 
 **Objective:**  
 To analyze the total amount received from borrowers across different loan purposes and understand how repayment amounts are distributed among various borrowing categories.
+
+
+## 8.) 
+![image alt](https://github.com/harsha0p6300/Finance_Domain/blob/main/Project%20pictures/homeowner_funded.png?raw=true)
