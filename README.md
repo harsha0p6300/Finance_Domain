@@ -178,3 +178,21 @@ To analyze the total amount received from borrowers across different loan purpos
 
 **Objective:**  
 To analyze the total loan amount funded across different home ownership categories and understand how loan funding is distributed based on borrowers' housing status.
+
+
+##  Conclusion
+
+The analysis provided valuable insights into loan applications, funding, 
+repayments, and loan performance. By analyzing trends across loan terms, 
+purposes, employee lengths, and home ownership, the project helped identify 
+key patterns in lending and repayment activity.
+
+This project demonstrates my ability to clean, analyze, visualize, and 
+interpret real-world financial data using Python and its data analysis 
+libraries.
+
+---
+
+## 👨‍💻 Author
+
+**Harsha Vardhan**
