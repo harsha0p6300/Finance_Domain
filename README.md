@@ -141,10 +141,12 @@ collection pattern over time.
 To measure the overall volume of loan applications received during the analysis period and understand the level of demand for loan products.
 
 
+## 4.) Total Funded Amount by Term
 
 
 
-
+**Objective:**  
+To analyze the total amount of loans funded across different loan terms and understand how funding is distributed between short-term and long-term loan periods.
 
 
 
