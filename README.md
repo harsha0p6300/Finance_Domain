@@ -117,15 +117,16 @@ Business Insights
 This section presents the key analyses and visualizations created during the project. 
 Each chart is designed to highlight important trends, patterns, and insights from the dataset
 
-## Total Funded Amount by month
+## 1.) Total Funded Amount by month
 
 ![image alt](https://github.com/harsha0p6300/Finance_Domain/blob/main/Project%20pictures/Total%20Funded%20bymonth.png?raw=true)
 
 **Objective:**  
 To analyze the monthly trend in the total amount funded to borrowers
 
+## 2.) Total Received Amount by Month
 
-
+![image alt](https://github.com/harsha0p6300/Finance_Domain/blob/main/Project%20pictures/Total%20Funded%20bymonth.png?raw=true)
 
 
 
