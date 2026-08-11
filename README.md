@@ -173,5 +173,8 @@ To analyze the total amount received from borrowers across different employee le
 To analyze the total amount received from borrowers across different loan purposes and understand how repayment amounts are distributed among various borrowing categories.
 
 
-## 8.) 
+## 8.) Total Funded Amount by Home Ownership
 ![image alt](https://github.com/harsha0p6300/Finance_Domain/blob/main/Project%20pictures/homeowner_funded.png?raw=true)
+
+**Objective:**  
+To analyze the total loan amount funded across different home ownership categories and understand how loan funding is distributed based on borrowers' housing status.
