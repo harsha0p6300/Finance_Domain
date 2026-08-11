@@ -153,3 +153,9 @@ To analyze the total amount of loans funded across different loan terms and unde
 
 **Objective:**  
 To analyze the total amount received from borrowers across different loan terms and understand how repayment amounts are distributed between short-term and long-term loans.
+
+## 6.) Total Funded Amount by Employee Length
+![image alt](https://github.com/harsha0p6300/Finance_Domain/blob/main/Project%20pictures/funded%20amount_emp.png?raw=true)
+
+**Objective:**  
+To analyze the total loan amount funded across different employee length categories and understand how funding is distributed based on borrowers' employment experience.
