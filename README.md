@@ -134,10 +134,11 @@ identify fluctuations in repayment activity, and understand the overall
 collection pattern over time.
 
 
+## 3.) Total Loan Applications 
+![image alt](https://github.com/harsha0p6300/Finance_Domain/blob/main/Project%20pictures/Total_loan_appl.png?raw=true)
 
-
-
-
+**Objective:**  
+To measure the overall volume of loan applications received during the analysis period and understand the level of demand for loan products.
 
 
 
