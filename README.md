@@ -143,7 +143,7 @@ To measure the overall volume of loan applications received during the analysis 
 
 ## 4.) Total Funded Amount by Term
 
-
+![image alt](https://github.com/harsha0p6300/Finance_Domain/blob/main/Project%20pictures/Funded%20by%20term.png?raw=true)
 
 **Objective:**  
 To analyze the total amount of loans funded across different loan terms and understand how funding is distributed between short-term and long-term loan periods.
