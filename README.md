@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-The project is an exploratory data analysis focused on understanding loan application patterns, funding trends, repayment performance, loan quality, and borrower characteristics.
+The project is an exploratory data analysis focused on understanding the Bank loan application patterns, funding trends, repayment performance, loan quality, and borrower characteristics.
 
 The objective of this project is to transform raw financial loan data into insights using Python, statistical analysis, and data visualization techniques.
 
